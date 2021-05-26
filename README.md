@@ -5,7 +5,11 @@ molecool
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master)
 
 
-Python package for molecular files. For workshop.
+Python package for molecular files. For MolSSI workshop. This package has a functions module. 
+
+This repository is currently under development. To do a developmental install, download this repo and type 
+
+`pip install -e`. 
 
 ### Copyright
 
