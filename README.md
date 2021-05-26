@@ -16,6 +16,14 @@ This package requires the following packages:
 - matplotlib
 
 
+Features should be developed on branches. To create and switch to a branch, use the command:
+`git checkout -b <branch name>`
+To switch back to an existing branch, use the command:
+`git checkout <new branch name>`
+To see branches:
+`git branch`
+
+
 ### Copyright
 
 Copyright (c) 2021, Jonathan McTague
