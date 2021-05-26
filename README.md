@@ -17,7 +17,7 @@ This package requires the following packages:
 
 To commit to git, use the commands:
 `git add <.\file name>`
-`git commit`
+`git commit -m "Info about change"`
 
 
 Features should be developed on branches. To create and switch to a branch, use the command:
