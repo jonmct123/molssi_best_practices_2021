@@ -11,6 +11,11 @@ This repository is currently under development. To do a developmental install, d
 
 `pip install -e`. 
 
+This package requires the following packages:
+- numpy
+- matplotlib
+
+
 ### Copyright
 
 Copyright (c) 2021, Jonathan McTague
