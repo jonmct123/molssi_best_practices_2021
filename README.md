@@ -15,6 +15,10 @@ This package requires the following packages:
 - numpy
 - matplotlib
 
+To commit to git, use the commands:
+`git add <.\file name>`
+`git commit`
+
 
 Features should be developed on branches. To create and switch to a branch, use the command:
 `git checkout -b <branch name>`
