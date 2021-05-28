@@ -28,6 +28,7 @@ def canvas(with_attribution=True):
         quote += "\n\t- Adapted from Henry David Thoreau"
     return quote
 
+
 def zen(with_attribution=True):
     quote = """The Zen of Python, by Tim Peters
 
@@ -54,11 +55,6 @@ def zen(with_attribution=True):
         quote += "\nTim Peters"
     return quote
 
-import os
-import numpy as np
-import matplotlib.pyplot as plt
-
-from mpl_toolkits.mplot3d import Axes3D
 
 #%matplotlib notebook
 
@@ -76,21 +72,6 @@ IO subpackage
 """
 
 
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
 if __name__ == "__main__":
     # Do something if this file is invoked on its own
     print(canvas())
-
